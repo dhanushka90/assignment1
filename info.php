@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
-phpinfo();
-?>
+echo "My first PHP script!";
+?> 
+
+</body>
+</html>
